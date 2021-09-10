@@ -9,14 +9,12 @@
 </head>
 
 <body>
-    <?php include("./partial/navbar.php");?>
-    < div class="container">
-    <h1>Le site de Zeynab</h1>
+    <?php include("./partial/navbar.php"); ?>
+    <div class="container">
+        <h1>Le site de Zeynab</h1>
+        </div>
 
-</div>
-
-
-    <script src="/js/bootstrap.bundle.min.js"></script>
+        <script src="/js/bootstrap.bundle.min.js"></script>
 
 </body>
 
